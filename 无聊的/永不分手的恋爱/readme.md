@@ -34,3 +34,4 @@
 
 * [一个人的核心能力是什么？ - 张灯结彩的回答 - 知乎](https://www.zhihu.com/question/524777137/answer/1991096057568985202)
 * [一个人的核心能力是什么？ - 知乎用户cSEQeW的回答 - 知乎](https://www.zhihu.com/question/524777137/answer/1960982713453516754)
+* [BILIBI - 如何选对陪你一生的人？找对象三大原则！](https://www.bilibili.com/video/BV1rqrWB6E3N)
