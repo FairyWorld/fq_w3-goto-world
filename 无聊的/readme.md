@@ -17,6 +17,9 @@
 * [BILIBILI - 讨厌一个人最好的方法，不是翻脸，而是降熵](https://www.bilibili.com/video/BV1ePSxBJEAm)
 * [BILIBILI - 顶级高手从不刻苦，他们只做「低内阻学习」](https://www.bilibili.com/video/BV1m7zEBcEv5)
 * [BILIBILI - 如果你的投资有这 3 个特征，请拔腿就跑](https://www.bilibili.com/video/BV1arr4BeEV8)
+* [为什么要远离社会底层？ - 托雷斯的回答 - 知乎](https://www.zhihu.com/question/853504106/answer/1942215822203421037)
+* [为什么要远离社会底层？ - 文文文凯呢的回答 - 知乎](https://www.zhihu.com/question/853504106/answer/1935764896747861153)
+* [为什么要远离社会底层？ - 吾牧之的回答 - 知乎](https://www.zhihu.com/question/853504106/answer/1932891537810896402)
 
 ---
 
