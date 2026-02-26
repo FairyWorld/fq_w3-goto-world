@@ -4,6 +4,7 @@
 * [BILIBILI - 好皇帝也救不了坏系统！崇祯越努力，明朝越完蛋！](https://www.bilibili.com/video/BV1cXFVzsEkw)
 * [BILIBILI - 帝国如何被自己骗倒？统治者无知的背后，是制度在撒谎!](https://www.bilibili.com/video/BV1tcfCBmEiK)
 * [vocus.cc - 千古奇文《寒窯賦》全文及譯文](https://vocus.cc/article/64191867fd89780001f46941)
+* [和一个人聊天很舒服是什么感觉？ - 六米的回答 - 知乎](https://www.zhihu.com/question/264804882/answer/818021782)
 
 ---
 
