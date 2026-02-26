@@ -2,3 +2,4 @@
 * [如何做到说话有分寸？ - 巴赫爱喝胡辣汤的回答 - 知乎](https://www.zhihu.com/question/26456607/answer/197931479)
 * [How to fix your entire life in 1 day](https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1)
   * [BILIBILI - 03_如何在一天内彻底改变你的人生](https://www.bilibili.com/video/BV1NTzhB4E2f)  
+* [BILIBILI - 尽量不要看和自己无关的信息](https://www.bilibili.com/video/BV1eDfyBAE8F)
