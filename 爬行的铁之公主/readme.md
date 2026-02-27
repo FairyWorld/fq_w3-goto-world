@@ -8,6 +8,7 @@
 * [为什么别人会觉得你好欺负？ - 江湖的回答 - 知乎](https://www.zhihu.com/question/1963783421714228407/answer/1967623771016926358)
 * [社会上有哪些潜规则让你细思恐极？ - 沐暖的小馆的回答 - 知乎](https://www.zhihu.com/question/34886670/answer/2003934052877628893)
 * [为什么公司裁员最先裁的都是认真工作的老实人？ - 漂浮的扎莱的回答 - 知乎](https://www.zhihu.com/question/1911554761485948556/answer/1985096278758143397)
+* [BILIBILI - 领导让我带人，新同事又笨又懒带不动，每天都很累，如何破解？](https://www.bilibili.com/video/BV1QgBHBzEA3)
 * [BILIBILI - 培养还是压榨？很简单，看“信息”](https://www.bilibili.com/video/BV1yHZuBGEJp)
 * [把工作理顺了，工作轻松了，领导却说你闲，该怎么办? - 励志脱坑的化学妹的回答 - 知乎](https://www.zhihu.com/question/1970004375528252601/answer/1972424845498258407)
 * [领导在一次会议上严厉批评了你，而实际上错误是由另一位同事小王造成的，你怎么办? - 苏夏寒的回答 - 知乎](https://www.zhihu.com/question/1890152838069445220/answer/1891207965639414072)
