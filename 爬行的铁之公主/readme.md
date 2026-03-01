@@ -1,3 +1,6 @@
+[怎样评价徐阶？ - 千堆雪ccd相机铺的回答 - 知乎](https://www.zhihu.com/question/32297808/answer/130193875633) 从古至今可以说一点都没变。
+
+
 * [政府自己可以发货币，根本不缺钱，那政府收税有什么意义？ - 探索为何的回答 - 知乎](https://www.zhihu.com/question/2006688034284912963/answer/2007100387035985672)
 * [为什么普通人的生意普遍做不大呢？ - 布哥留学求职的回答 - 知乎](https://www.zhihu.com/question/657553293/answer/100226666710)
 * [为什么创业失败率很高？ - 北京Fund的回答 - 知乎](https://www.zhihu.com/question/351960948/answer/3144636286)
