@@ -50,5 +50,7 @@
 * [贾国龙为什么就过不去这个事儿了呢？ - 天海的回答 - 知乎](https://www.zhihu.com/question/1995553043710776832/answer/2000639056112029719)
 * [网红猫一杯的事情为什么这么严重？ - Kkkkk的回答 - 知乎](https://www.zhihu.com/question/652851601/answer/118930289159)
 * [如何评价“年纪轻轻看什么南明史”？ - 知乎](https://www.bilibili.com/video/BV1PAP6zEE2C)
+* [为什么不去有大量劳动力的河南建厂？ - 知乎](https://www.zhihu.com/question/646792082)
+* [记者的社会地位越来越低，是什么导致了这种现象？ - juventusyq03的回答 - 知乎](https://www.zhihu.com/question/3221169129/answer/1999127074607232649)
 
 
