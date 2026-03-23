@@ -1,4 +1,7 @@
-[你这一生 ，悟出最大的一个道理是什么 ? - Kaiser的回答 - 知乎](https://www.zhihu.com/question/661001252/answer/2016076960778965483)
+* [你这一生 ，悟出最大的一个道理是什么 ? - Kaiser的回答 - 知乎](https://www.zhihu.com/question/661001252/answer/2016076960778965483)
+* [政治决策者是否会对自己的决策导致他人死亡的结果感到愧疚或反思？ - 知乎](https://www.zhihu.com/question/2013881690150418333)
+
+---
 
 * https://www.marxists.org/reference/archive/mao/selected-works
 * https://www.sciencedirect.com/book/monograph/9780080229805/selected-works-of-mao-tse-tung
@@ -10,8 +13,9 @@ quora
 * https://www.quora.com/What-makes-Maos-Little-Red-Book-into-the-second-most-published-printed-sold-bought-and-read-books-in-the-whole-world-after-the-Bible
 * https://qr.ae/pC0fmA
 
-金瓶梅
+---
 
+金瓶梅
 
 [为什么《金瓶梅》不适合年轻人读？ - 汤郁的回答 - 知乎](https://www.zhihu.com/question/2006478033977091699/answer/2006481542013264852)、[为什么《金瓶梅》的作者似乎没有心结？ - 知乎
 ](https://www.zhihu.com/question/22139744)
