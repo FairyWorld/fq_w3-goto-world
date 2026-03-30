@@ -57,6 +57,7 @@ quora
 * [BILIBILI -【参考信息第580期】招商局长联合讨薪；举报领导退休母亲](https://www.bilibili.com/video/BV1rcQZBbEMo)  (躺平岗位指南)
 * [BILIBILI - 回信 | 中国政府2026一定会做的十件事情，但对你来说意味着什么？只有工作和计划是重要的。](https://www.bilibili.com/video/BV1ARXKBsEZn)
 * [BILIBILI - 解乏 | 中国社会只会右转，顺应局势，接受现实，寻找机会。](https://www.bilibili.com/video/BV13BXKBKE9y)
+* [BILIBILI - 解乏 | 不要传播力工思维，要有红线意识，不要攻击基本价值观。](https://www.bilibili.com/video/BV1gCXQB8ESk)
 
 ---
 
