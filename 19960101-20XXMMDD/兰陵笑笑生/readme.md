@@ -40,7 +40,8 @@
 * [据说2025年有1200多万大学生毕业，他们都找到工作了吗？ - 枫冷慕诗的回答 - 知乎](https://www.zhihu.com/question/1927899941373736877/answer/2021914807146684730) (高中生青训)
 * [课堂已死——当大学教师不再是知识入口之后 - 永不放弃的文章 - 知乎](https://zhuanlan.zhihu.com/p/2020172714879504769)
 * [人性为什么是经不起揣摩的？ - ZeroBug的回答 - 知乎](https://www.zhihu.com/question/659600894/answer/2042529947185664898)
+* [大多数人庸庸碌碌一生，一事无成的本质是什么 ？ - 王楚越的回答 - 知乎](https://www.zhihu.com/question/625753739/answer/2057996493479589242)
 
 
-<img width="916" height="658" alt="PixPin_2026-04-03_13-59-07" src="https://github.com/user-attachments/assets/1e27155c-2505-4054-b8ab-897f936387cf" />
+<!-- <img width="916" height="658" alt="PixPin_2026-04-03_13-59-07" src="https://github.com/user-attachments/assets/1e27155c-2505-4054-b8ab-897f936387cf" /> -->
 
