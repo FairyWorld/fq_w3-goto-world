@@ -2,7 +2,9 @@
 
 思辨录：https://mind-guards.com
 
-年度访问量最大的网站：https://zh.semrush.com/trending-websites/
+年度访问量最大的网站：https://zh.semrush.com/trending-websites
+
+零食分析（英语）：https://www.taquitos.net
 
 商务预报：https://cif.mofcom.gov.cn/cif/html/indexCenter2024/index.html
 
@@ -75,5 +77,4 @@ AI对中国就业市场冲击：https://mistysun19.github.io/ai-jobs-cn/cn/
   * 使用正确的计算
   * 得出荒谬的结论   
 
-特调局档案系统：https://welcometosi2.netlify.app/
 
