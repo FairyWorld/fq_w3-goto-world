@@ -1,5 +1,9 @@
 ### 站点浏览
 
+世界历史百科全书：https://www.worldhistory.org
+
+科学名词查询网：http://www.sciref.net
+
 思辨录：https://mind-guards.com
 
 年度访问量最大的网站：https://zh.semrush.com/trending-websites
