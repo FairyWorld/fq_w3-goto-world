@@ -31,6 +31,7 @@
 
 #### 订阅
 
+* https://www.britannica.com 大英帝国百科全书
 * http://other.caixin.com/e_newsletter/?id=1&email= 财新订阅
 * https://aeon.co/ 英语社会读物杂志
 * https://www.cna.com.tw 中央社新闻订阅（台湾）
