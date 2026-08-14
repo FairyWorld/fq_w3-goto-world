@@ -8,6 +8,10 @@
 
 世界历史百科全书：https://www.worldhistory.org
 
+斯坦福哲学百科全书：https://plato.stanford.edu/contents.html
+
+斯坦福哲学百科全书
+
 科学名词查询网：http://www.sciref.net
 
 思辨录：https://mind-guards.com
