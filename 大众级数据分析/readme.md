@@ -4,6 +4,8 @@
 
 彩票实验室：https://cpglsys.com
 
+大英帝国百科全书：https://www.britannica.com
+
 世界历史百科全书：https://www.worldhistory.org
 
 科学名词查询网：http://www.sciref.net
