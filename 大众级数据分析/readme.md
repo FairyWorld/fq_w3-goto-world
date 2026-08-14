@@ -2,6 +2,8 @@
 
 新闻实验室（台湾）：https://newslab.pts.org.tw
 
+彩票实验室：https://cpglsys.com
+
 世界历史百科全书：https://www.worldhistory.org
 
 科学名词查询网：http://www.sciref.net
