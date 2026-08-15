@@ -1,16 +1,12 @@
+<h1 align="center">城中村哈姆雷特</h1>
 
-<!--
-</a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/mof2.PNG" width="250 " height="250" /></a><a><img align="right" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/mof1.PNG" width="250 " height="250" />
+<p align="center">
+  <a href="./README_JP.md">日本語</a> | <a href="./README.md">中文</a>
+</p>
 
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) 
-
--->
-
-<!--![冲出你的窗口](https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/ccndck.png)-->
+---
 
 <h1 align="center"> 免责声明 </h1>
-
-<p align="center"> <a href="https://github.com/hoochanlon/hamulete/blob/master/README_JP.md"> 日本語 </a> | <a href="https://github.com/hoochanlon/hamulete/blob/master/README.md"> 中文 </a>  </p>
 
 该库并不提供任何资料，所有内容均为搬运。仅面向海外华人及社科研究者，切勿用于其他用途！中国用户请自觉关闭，并在24小时之内删掉与本项目相关的一切内容。否则出现一切问题，项目作者概不负责！<br>
 
@@ -26,51 +22,29 @@
 </a>
 <br>
 
-## ***Intro***
+## 说明
 
 🏔️国立台湾大学、新加坡国立大学、早稻田大学、东京大学，中央研究院（台湾）以及中国重点高校及科研机构，社科、经济、数学、博弈论、哲学、系统工程类学术论文等知识库。
 
-<a href="有趣的/0%20魔幻现实主义与理想间的交织破碎/" target="_blank">
-<img align="right" width="160" src="https://fastly.jsdelivr.net/gh/hoochanlon/w3-goto-world/W3UnitTest/ccndck.png"></a>
 
-***[ScientificInternetAccess](有趣的/0%20魔幻现实主义与理想间的交织破碎/) 、[ChatGPT](AI/)、Google等各类镜像站与SS/V2/Clash/QuanX连结。*** 
+- **[19960101-20XXMMDD](./19960101-20XXMMDD/)** — 主资料库，社会现象、人文社科议题的链接与文章聚合
+- **[有趣的](./有趣的/冲出你的窗口)** — ss、ssr、vpn 等相关内容 
+- **[有趣的](./有趣的/)** — 社会学文献信息库，含学术期刊、图书馆导航、数据分析资源、书籍搜索与题库等
+- **[无聊的](./无聊的/)** — 社会议题、财经、就业、人生观察类链接聚合
+- **[大众级数据分析](./大众级数据分析/)** — 各类数据站点导航、经济研究资源、社会分层等主题阅读材料
+- **[镜花水月](./镜花水月/)** — 社会现实、人际关系与个人成长类文章聚合
+- **[爬行的铁之公主](./爬行的铁之公主/)** — 职场生存、组织规则与社会运行逻辑类文章聚合
+- **[集成实用夹](./集成实用夹/)** — 综合工具导航：书库、API、图表工具、热搜、书签等实用网站汇总
+- **[软件分享及网页备份](./软件分享及网页备份/)** — 软件下载、Windows/Mac 工具链、激活资源、PT/BT、网页备份等
+- **[媒体订阅](./媒体订阅/)** — 英语新闻、杂志订阅、TG 频道、免费软件/游戏资讯、游戏折扣等
+- **[AI](./AI/)** — AI 工具、镜像站与学习平台导航
+- **[RSS](./RSS/)** — RSS 订阅源，含新闻、财经、学术期刊分类
+- **[2077](./2077/)** — 杂项资源：出版社下载、工具网站、社会议题等
+- **[latex](./latex/)** — LaTeX 学习资料与工具汇总
 
-***[有趣的](有趣的/)、[2](有趣的/有趣的2/)、[3](有趣的/有趣的3/) 科研机构与高校行业研究报告的知识储备库，图书馆学科导航、数学以及部分相关交叉学科学术论坛汇总。（附：[数学符号表](https://zh.wikipedia.org/zh-hans/数学符号表)、[数学读音表](https://www.zhihu.com/question/23655549)）***
-
-***[有趣的4](有趣的/有趣的4/)基于宏观、微观视角观察社会现象；[α](有趣的/有趣的α/)、[β](有趣的/有趣的β/) 博弈论、就业信息相关；学习[词汇表](https://github.com/hoochanlon/tetyou/tree/master/学到的新词)与[新概念](https://github.com/hoochanlon/tetyou/tree/master/学到的新概念)，方便写文章。***
-
-**AI问答示例：[一](https://nbviewer.org/github/hoochanlon/hamulete/blob/master/サイレントマジョリティー/僕は存在していなかった.ipynb)、[二](https://nbviewer.org/github/hoochanlon/hamulete/blob/master/サイレントマジョリティー/夜明けまで強がらなくてもいい.ipynb)**
-
-***[软件分享及网页备份](软件分享及网页备份/) [集成实用夹](集成实用夹/) [资源存储库 web版](https://hoochanlon.github.io/hamulete/)***
-
-了解一部分灰色和黑暗面，也是为了更全面地认识这个社会。不是为了效仿，而是为了自保。三观不正的人，确实也可以过得很好，但前提是有本事拿捏住对方；普通人往往撑不住反噬的代价。没有工具手段上称，要是心里没数，没有那个本事，还是做个普通人，最稳妥。
-
-有趣的东西其实是思想观点聚流，但需要具备较强的独立深度思考能力，把所见所闻信息转化为自己受用的知识；期间还要考虑人文环境及时势、概率、谬误偏差等，这本身就是困难的一件事，从了解消息到提出问题，提出问题的期间搜集资料，根据资料提出自己的建议，老实说很可以了。此外，[向杨Alan君 - 年轻人的“老登化”，是狗智时代一个社会最悲哀的画面](https://www.bilibili.com/video/BV1iM9wBPEDx) 挺值得一看。
-
-## ***Thanks***
 
 fq-book和w3-goto-world，以及这些文件夹的命名什么的，想起来已是2018年的事了，那会还是学生时期，失业一年多。从学校出来到社会，一直被社会教育、毒打，懂的都懂。这也是自己尤为重视及关心人文社科文献、以及跨学科应用的原因。最后感谢参与 PR 的所有人。
 
 <a href="https://github.com/hoochanlon/hamulete/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hoochanlon/hamulete" />
 </a>
-
-Made with [contrib.rocks](https://contrib.rocks).
-
-<img align="right" width="260" src="https://github.com/hoochanlon/hamulete/assets/35732922/7970e6bf-27cc-4815-8760-6c01fd5232b0">
-
-## ***PR, Sponsored, participation***
-
-入手GitHub这几年(截止2023.5)，自己呢多多少少也PR、sponsored 过一些项目，这里只列出部分，也许对大家有用吧：
-
-[al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck)、[dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial)、[eryajf/Thanks-Mirror](https://github.com/eryajf/Thanks-Mirror)
-
-[Lxxyx/LxxyxResume](https://github.com/Lxxyx/LxxyxResume)、[dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
-
-[npcola/TI](https://github.com/npcola/TI)、[paipai-Studio/Anti-Fraud](https://github.com/paipai-Studio/Anti-Fraud)
-
-[bitcookies/winrar-keygen](https://github.com/bitcookies/winrar-keygen)、[jnv/lists](https://github.com/jnv/lists)
-
-[Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web)
-
-
