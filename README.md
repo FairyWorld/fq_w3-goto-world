@@ -1,16 +1,8 @@
-<h1 align="center">城中村哈姆雷特</h1>
-
-<p align="center">
-  <a href="./README_JP.md">日本語</a> | <a href="./README.md">中文</a>
-</p>
-
----
-
 <h1 align="center"> 免责声明 </h1>
 
 该库并不提供任何资料，所有内容均为搬运。仅面向海外华人及社科研究者，切勿用于其他用途！中国用户请自觉关闭，并在24小时之内删掉与本项目相关的一切内容。否则出现一切问题，项目作者概不负责！<br>
 
-# ***<ruby>城中村哈姆雷特<rp>（</rp><rt>《信息网络社科整合资源库》</rt><rp></rp></ruby>***
+# ***<ruby>城中村哈姆雷特<rp>（</rp><rt>信息网络社科资源整合库</rt><rp></rp></ruby>***
 
 <a href="https://ndltd.ncl.edu.tw" target="_blank">
 <img align="right" width="200" src="https://ndltd.ncl.edu.tw/gs32/nclcdr/image/promote.gif"></a>
