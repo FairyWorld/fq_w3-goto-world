@@ -15,8 +15,12 @@
   * https://ludwig.guru/
  
 * 绘本
- * https://freekidsbooks.org
- * https://storylineonline.net/library
- * https://www.oxfordowl.co.uk
- * https://www.freechildrenstories.com
- * https://www.storynory.com
+  * https://freekidsbooks.org
+  * https://storylineonline.net/library
+  * https://www.oxfordowl.co.uk
+  * https://www.freechildrenstories.com
+  * https://www.storynory.com
+
+* 听资讯
+ * https://www.snexplores.org
+ * https://www.sciencejournalforkids.org
