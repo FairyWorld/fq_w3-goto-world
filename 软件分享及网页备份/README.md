@@ -9,6 +9,8 @@
 * 扩展名打开：https://filext.com/zh
 * 有用经验：https://yyjingyan.com
 *  [不死鸟](https://iui.su/pic.html)、[423down](https://www.423down.com)、[懒得勤快](https://masuit.com)、[胡萝卜周(RIP，感谢有你。)](https://www.zhihu.com/question/530078477/answer/2458656992)、[大眼仔](http://www.dayanzai.me)、[知您网](https://www.zhiniw.com)
+* 日语、台语词典：https://tio.freemdict.com/jp/ 、https://sutian.moe.edu.tw/zh-hant/
+* 图解词典：https://dictionary.langeek.co/en-ZH 、 https://languagetools.biz 、 https://www.opdome.com 、https://www.online-languages.info
 * 日本台湾IT分享：
   * [nesuke](https://milestone-of-se.nesuke.com/)、[itojisan](https://itojisan.xyz)、[it-networking](https://it-networking.jp/)、[n-study](https://www.n-study.com/)、 [infraexpert](https://www.infraexpert.com/)
   * [软体王](https://www.softking.com.tw)、[软件部落](http://softblog.tw) 、[阿荣](https://www.azofreeware.com)、[电脑王阿达](https://www.kocpc.com.tw/)、[T客邦](https://www.techbang.com/)、[网管人](https://www.netadmin.com.tw/)、[翻转工作室](www.tsnien.idv.tw/)
