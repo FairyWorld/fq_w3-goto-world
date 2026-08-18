@@ -6,6 +6,8 @@
 
 女学学志（台湾）：https://jwgs.psc.ntu.edu.tw
 
+各类PDF杂文：https://morepdf.online/
+
 大英帝国百科全书：https://www.britannica.com
 
 世界历史百科全书：https://www.worldhistory.org
