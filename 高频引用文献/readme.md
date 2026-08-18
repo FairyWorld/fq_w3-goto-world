@@ -12,4 +12,6 @@ Habermas, J. (1989). *The structural transformation of the public sphere* (T. Bu
 
 Bakhtin, M. M. (1984). *Rabelais and his world* (H. Iswolsky, Trans.). Indiana University Press. [[Monoskop]](https://monoskop.org/File:Bakhtin_Mikhail_Rabelais_and_His_World_1984.pdf), [[Z-Library(CN)]](https://ur.z-library.sk/book/9ZjKGMVYj0/%E5%B7%B4%E8%B5%AB%E9%87%91%E5%85%A8%E9%9B%86.html?dsource=recommend)
 
+Taylor, C. (1994). The politics of recognition. In A. Gutmann (Ed.), *Multiculturalism: Examining the politics of recognition* (pp. 25–73). Princeton University Press. [[PDF]](https://presencial.moodle.ufsc.br/pluginfile.php/1675431/mod_resource/content/0/Taylor%2C%20Charles%3B%20Gutmann%2C%20Amy%20%28Ed%29.%20Multiculturalism.pdf), [[Z-Library(CN)]](https://ur.z-library.sk/book/5jJw0xPdvp/%E6%96%87%E5%8C%96%E4%B8%8E%E5%85%AC%E5%85%B1%E6%80%A7.html)
+
 
