@@ -14,4 +14,8 @@ Bakhtin, M. M. (1984). *Rabelais and his world* (H. Iswolsky, Trans.). Indiana U
 
 Taylor, C. (1994). The politics of recognition. In A. Gutmann (Ed.), *Multiculturalism: Examining the politics of recognition* (pp. 25–73). Princeton University Press. [[PDF]](https://presencial.moodle.ufsc.br/pluginfile.php/1675431/mod_resource/content/0/Taylor%2C%20Charles%3B%20Gutmann%2C%20Amy%20%28Ed%29.%20Multiculturalism.pdf), [[Z-Library(CN)]](https://ur.z-library.sk/book/5jJw0xPdvp/%E6%96%87%E5%8C%96%E4%B8%8E%E5%85%AC%E5%85%B1%E6%80%A7.html)
 
+Weber, M. (1946). Science as a vocation. In H. H. Gerth & C. Wright Mills (Eds. & Trans.), *From Max Weber: Essays in sociology* (pp. 129–156). Oxford University Press. (Original work published 1919) [[PDF]](https://sociology.sas.upenn.edu/sites/default/files/Weber-Science-as-a-Vocation.pdf), [[Z-Library(CN)]](https://z-library.im/book/825xzbgxJg/%E5%AD%A6%E6%9C%AF%E4%B8%8E%E6%94%BF%E6%B2%BB.html)
 
+Weber, M. (1978). *Economy and society: An outline of interpretive sociology* (G. Roth & C. Wittich, Eds.). University of California Press. (Original work published 1922) [[PDF]](https://sociologiac.net/2023/10/22/economy-and-society-max-weber/), [[Yabook(CN)]](https://yabook.org/post/8353.html)
+
+Weber, M. (2002). *The Protestant ethic and the “spirit” of capitalism and other writings* (P. Baehr & G. C. Wells, Trans.). Penguin Books. (Original work published 1904–1905) [[Dokumen Pub]](https://dokumen.pub/the-protestant-ethic-and-the-spirit-of-capitalism-and-other-writings-9781101098479.html), [[Yabook(CN)]](https://yabook.org/post/6226.html)
