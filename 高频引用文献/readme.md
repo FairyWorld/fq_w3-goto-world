@@ -6,3 +6,7 @@ Bourdieu, P. (1991). *Language and symbolic power* (J. B. Thompson, Ed.; G. Raym
 
 Goffman, E. (1963). *Stigma: Notes on the management of spoiled identity*. Prentice-Hall. [[Vdoc Pub]](https://vdoc.pub/documents/stigma-notes-on-the-management-of-spoiled-identity-3v4l0gh6s30g)
 
+Habermas, J. (1984). *The theory of communicative action: Reason and the rationalization of society* (Vol. 1, T. McCarthy, Trans.). Beacon Press. [[Academia Edu]](https://www.academia.edu/36393145/l_THE_THEORY_OF_COMMUNICATIVE_ACTION_REASON_AND_THE_RATIONALIZATION_OF_SOCIETY)
+
+Habermas, J. (1989). *The structural transformation of the public sphere* (T. Burger, Trans.). MIT Press. [Academia Edu](https://www.academia.edu/24976566/Habermas_structural_trans_pub_sphere)
+
