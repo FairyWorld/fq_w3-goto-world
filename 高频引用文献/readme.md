@@ -4,3 +4,5 @@ Foucault, M. (1978). *The history of sexuality: An introduction* (Vol. 1, R. Hur
 
 Bourdieu, P. (1991). *Language and symbolic power* (J. B. Thompson, Ed.; G. Raymond & M. Adamson, Trans.). Harvard University Press. [[Monoskop]](https://monoskop.org/File:Bourdieu_Pierre_Language_and_Symbolic_Power_1991.pdf)
 
+Goffman, E. (1963). *Stigma: Notes on the management of spoiled identity*. Prentice-Hall. [[Vdoc Pub]](https://vdoc.pub/documents/stigma-notes-on-the-management-of-spoiled-identity-3v4l0gh6s30g)
+
