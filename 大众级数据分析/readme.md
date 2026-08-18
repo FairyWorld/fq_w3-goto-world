@@ -2,9 +2,9 @@
 
 新闻实验室（台湾）：https://newslab.pts.org.tw
 
-彩票实验室：https://cpglsys.com
+女学学志（台湾）：https://jwgs.psc.ntu.edu.tw （社会学女性学）
 
-女学学志（台湾）：https://jwgs.psc.ntu.edu.tw
+彩票实验室：https://cpglsys.com
 
 各类PDF杂文：https://morepdf.online/
 
