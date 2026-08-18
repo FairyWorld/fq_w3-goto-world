@@ -2,7 +2,7 @@
 
 新闻实验室（台湾）：https://newslab.pts.org.tw
 
-女学学志（台湾）：https://jwgs.psc.ntu.edu.tw （社会学女性学）
+女学学志（台湾）：https://jwgs.psc.ntu.edu.tw （tags: 社会学女性学, 女性研究）
 
 彩票实验室：https://cpglsys.com
 
