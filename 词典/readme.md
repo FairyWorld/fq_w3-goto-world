@@ -26,7 +26,7 @@
 * 听资讯
   * https://www.snexplores.org
   * https://www.sciencejournalforkids.org
-  * https://lingvo.club （分级阅读）
+  * https://lingvo.club
  
 * 语法校准
   * https://ludwig.guru/
