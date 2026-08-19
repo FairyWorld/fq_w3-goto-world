@@ -33,7 +33,15 @@
  
 * 句子词典
   * https://speechling.com/zh/dictionary/english/all
- 
+
+扩展阅读
+
+* [【TED科普】如何欺骗大脑爱上做困难的事？远离超量多巴胺让你沉迷学习！](https://www.bilibili.com/video/BV1qb421H7eC/)
+* [【TED科普】怎样保持每天元气满满？](https://www.bilibili.com/video/BV1p1421k7Ac)
+* [【TED科普】长时间保持大脑清晰的7个习惯！](https://www.bilibili.com/video/BV1pU411S7JN)
+* [【TED科普】为什么大多数人永远不会真正成功？](https://www.bilibili.com/video/BV1MJ48edEeg)
+* [【TED科普】如何用英语思考？](https://www.bilibili.com/video/BV1gB3M6zEjb)
+* [How to fix your entire life in 1 day](https://letters.thedankoe.com/p/how-to-fix-your-entire-life-in-1)
 
  
 
