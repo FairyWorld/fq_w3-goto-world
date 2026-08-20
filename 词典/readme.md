@@ -1,4 +1,6 @@
-* 日语、台语词典：https://tio.freemdict.com/jp/ 、https://sutian.moe.edu.tw/zh-hant/
+* 日本台湾词典：
+  * https://tio.freemdict.com/jp
+  * https://sutian.moe.edu.tw/zh-hant/
 
 * 图解词典（综合或名词）：
    * https://dictionary.langeek.co/en-ZH 、 https://languagetools.biz
@@ -27,6 +29,7 @@
   * https://www.snexplores.org
   * https://www.sciencejournalforkids.org
   * https://lingvo.club
+  * https://www.npr.org
  
 * 语法校准
   * https://ludwig.guru/
