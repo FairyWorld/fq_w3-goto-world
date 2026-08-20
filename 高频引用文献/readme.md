@@ -2,6 +2,8 @@ Foucault, M. (1977). *Discipline and punish: The birth of the prison* (A. Sherid
 
 Foucault, M. (1978). *The history of sexuality: An introduction* (Vol. 1, R. Hurley, Trans.). Pantheon Books. [[Monoskop]](https://monoskop.org/File:Foucault_Michel_The_History_of_Sexuality_1_An_Introduction.pdf), [[PDF(CN)]](https://lunarora.com/book/9787208138100)
 
+Foucault, M. (2007). *Security, territory, population: Lectures at the Collège de France, 1977–1978* (G. Burchell, Trans.). Palgrave Macmillan. (Original work published 2004) [[PDF]](https://www.noinputbooks.aphasic-letters.com/endless/cc_06-27-11_07-23-11/Palgrave%20Macmillan/2007/Foucault/Foucault%20-%20Security,%20Territory,%20Population.pdf), [[Yabook(CN)]](https://yabook.org/book/2914.html)
+
 Bourdieu, P. (1991). *Language and symbolic power* (J. B. Thompson, Ed.; G. Raymond & M. Adamson, Trans.). Harvard University Press. [[Monoskop]](https://monoskop.org/File:Bourdieu_Pierre_Language_and_Symbolic_Power_1991.pdf)
 
 Goffman, E. (1963). *Stigma: Notes on the management of spoiled identity*. Prentice-Hall. [[Vdoc Pub]](https://vdoc.pub/documents/stigma-notes-on-the-management-of-spoiled-identity-3v4l0gh6s30g)
