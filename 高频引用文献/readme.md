@@ -2,7 +2,14 @@ Foucault, M. (1977). *Discipline and punish: The birth of the prison* (A. Sherid
 
 Foucault, M. (1978). *The history of sexuality: An introduction* (Vol. 1, R. Hurley, Trans.). Pantheon Books. [[Monoskop]](https://monoskop.org/File:Foucault_Michel_The_History_of_Sexuality_1_An_Introduction.pdf), [[PDF(CN)]](https://lunarora.com/book/9787208138100)
 
+Foucault, M. (1991). Governmentality. In G. Burchell, C. Gordon, & P. Miller (Eds.), *The Foucault effect: Studies in governmentality* (pp. 87–104). University of Chicago Press. [[Z-Library]](https://z-library.biz/book/9KQjdMyxg0/the-foucault-effect-studies-in-governmentality-with-two-lectures-by-and-an-interview-with-michel.html)
+
 Foucault, M. (2007). *Security, territory, population: Lectures at the Collège de France, 1977–1978* (G. Burchell, Trans.). Palgrave Macmillan. (Original work published 2004) [[PDF]](https://www.noinputbooks.aphasic-letters.com/endless/cc_06-27-11_07-23-11/Palgrave%20Macmillan/2007/Foucault/Foucault%20-%20Security,%20Territory,%20Population.pdf), [[Yabook(CN)]](https://yabook.org/book/2914.html)
+
+Foucault, M. (2008). *The birth of biopolitics: Lectures at the Collège de France, 1978–1979* (G. Burchell, Trans.). Palgrave Macmillan. (Original work published 2004) [[Philpaper]](https://philpapers.org/rec/GUDMF)
+
+
+
 
 Bourdieu, P. (1991). *Language and symbolic power* (J. B. Thompson, Ed.; G. Raymond & M. Adamson, Trans.). Harvard University Press. [[Monoskop]](https://monoskop.org/File:Bourdieu_Pierre_Language_and_Symbolic_Power_1991.pdf)
 
