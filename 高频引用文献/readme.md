@@ -17,15 +17,13 @@ Foucault, M. (2007). *Security, territory, population: Lectures at the Collège 
 Foucault, M. (2008). *The birth of biopolitics: Lectures at the Collège de France, 1978–1979* (G. Burchell, Trans.). Palgrave Macmillan. (Original work published 2004) [[Philpaper]](https://philpapers.org/rec/GUDMF)
 
 
-
-
-Bourdieu, P. (1991). *Language and symbolic power* (J. B. Thompson, Ed.; G. Raymond & M. Adamson, Trans.). Harvard University Press. [[Monoskop]](https://monoskop.org/File:Bourdieu_Pierre_Language_and_Symbolic_Power_1991.pdf)
-
 Goffman, E. (1963). *Stigma: Notes on the management of spoiled identity*. Prentice-Hall. [[Vdoc Pub]](https://vdoc.pub/documents/stigma-notes-on-the-management-of-spoiled-identity-3v4l0gh6s30g)
 
 Habermas, J. (1984). *The theory of communicative action: Reason and the rationalization of society* (Vol. 1, T. McCarthy, Trans.). Beacon Press. [[Academia Edu]](https://www.academia.edu/36393145/l_THE_THEORY_OF_COMMUNICATIVE_ACTION_REASON_AND_THE_RATIONALIZATION_OF_SOCIETY)
 
 Habermas, J. (1989). *The structural transformation of the public sphere* (T. Burger, Trans.). MIT Press. [Academia Edu](https://www.academia.edu/24976566/Habermas_structural_trans_pub_sphere)
+
+Habermas, J. (1984). *The theory of communicative action: Reason and the rationalization of society* (Vol. 1, T. McCarthy, Trans.). Beacon Press. [[Academia Edu]](https://www.academia.edu/36393145/l_THE_THEORY_OF_COMMUNICATIVE_ACTION_REASON_AND_THE_RATIONALIZATION_OF_SOCIETY)
 
 Bakhtin, M. M. (1984). *Rabelais and his world* (H. Iswolsky, Trans.). Indiana University Press. [[Monoskop]](https://monoskop.org/File:Bakhtin_Mikhail_Rabelais_and_His_World_1984.pdf), [[Z-Library(CN)]](https://ur.z-library.sk/book/9ZjKGMVYj0/%E5%B7%B4%E8%B5%AB%E9%87%91%E5%85%A8%E9%9B%86.html?dsource=recommend)
 
